@@ -26,8 +26,8 @@ Demos
 - Online demo [omnisdata.com/omnigrid](http://www.omnisdata.com/omnigrid/)
 
 
-Usage
------
+How to Usage
+------------
 
 	<link rel="stylesheet" media="screen" href="omnigrid.css" type="text/css" />
 	<script type="text/javascript" src="mootools/mootools-1.2.4-nc.js"></script>
